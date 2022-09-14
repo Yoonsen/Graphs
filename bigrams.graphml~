@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"  
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+    http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+    
+    <key id = "form0" for = "node" attr.name = "form" attr.type = "string"/>
+    <key id = "freq0" for = "all" attr.name = "frequency" attr.type = "int"/>
+    <key id = "mi0" for = "edge" attr.name = "mi" attr.type = "float"/>
+    <key id = "label0" for = "edge" attr.name = "label" attr.type = "string">
+       <default>bigram</default>
+    </key><graph id="nb.no/bigrams" edgedefault="directed">    <node id="1512655">
+        <data key = "form0">barn</data>
+        <data key = "freq0">526136</data>
+    </node>
+    <node id="1781558">
+        <data key = "form0">fattige</data>
+        <data key = "freq0">49089</data>
+    </node>
+    <node id="1848252">
+        <data key = "form0">foreldre</data>
+        <data key = "freq0">114560</data>
+    </node>
+    <node id="1898834">
+        <data key = "form0">frokost</data>
+        <data key = "freq0">11665</data>
+    </node>
+    <node id="2031394">
+        <data key = "form0">horisont</data>
+        <data key = "freq0">1642</data>
+    </node>
+    <node id="2243575">
+        <data key = "form0">kort</data>
+        <data key = "freq0">281325</data>
+    </node>
+    <node id="2288169">
+        <data key = "form0">kvinner</data>
+        <data key = "freq0">291331</data>
+    </node>
+    <node id="2305969">
+        <data key = "form0">lang</data>
+        <data key = "freq0">264599</data>
+    </node>
+    <node id="2413301">
+        <data key = "form0">menn</data>
+        <data key = "freq0">250231</data>
+    </node>
+    <node id="2423518">
+        <data key = "form0">middag</data>
+        <data key = "freq0">26117</data>
+    </node>
+    <node id="2742419">
+        <data key = "form0">rike</data>
+        <data key = "freq0">47156</data>
+    </node>
+    <node id="2937003">
+        <data key = "form0">spise</data>
+        <data key = "freq0">44064</data>
+    </node>
+    <node id="3070510">
+        <data key = "form0">tid</data>
+        <data key = "freq0">876170</data>
+    </node>
+    <node id="3142969">
+        <data key = "form0">tygge</data>
+        <data key = "freq0">1762</data>
+    </node>
+ <edge  source = "1781558" target = "1512655">
+        <data key = "freq0">846</data>
+        <data key = "mi0">26.05192230127502</data>
+    </edge>
+ <edge  source = "2742419" target = "1512655">
+        <data key = "freq0">30</data>
+        <data key = "mi0">1.9244801115971135</data>
+    </edge>
+ <edge  source = "2288169" target = "1512655">
+        <data key = "freq0">17</data>
+        <data key = "mi0">-5.165397176657945</data>
+    </edge>
+ <edge  source = "2742419" target = "1848252">
+        <data key = "freq0">164</data>
+        <data key = "mi0">19.323161201807824</data>
+    </edge>
+ <edge  source = "1781558" target = "1848252">
+        <data key = "freq0">131</data>
+        <data key = "mi0">17.18073917267822</data>
+    </edge>
+ <edge  source = "2937003" target = "1898834">
+        <data key = "freq0">605</data>
+        <data key = "mi0">47.69743257453268</data>
+    </edge>
+ <edge  source = "2305969" target = "1898834">
+        <data key = "freq0">52</data>
+        <data key = "mi0">12.644308813732971</data>
+    </edge>
+ <edge  source = "2305969" target = "2031394">
+        <data key = "freq0">67</data>
+        <data key = "mi0">22.765088988622313</data>
+    </edge>
+ <edge  source = "2243575" target = "2031394">
+        <data key = "freq0">28</data>
+        <data key = "mi0">14.929698447153077</data>
+    </edge>
+ <edge  source = "1781558" target = "2288169">
+        <data key = "freq0">328</data>
+        <data key = "mi0">20.325173225348905</data>
+    </edge>
+ <edge  source = "2742419" target = "2288169">
+        <data key = "freq0">53</data>
+        <data key = "mi0">6.85279722896009</data>
+    </edge>
+ <edge  source = "2413301" target = "2288169">
+        <data key = "freq0">27</data>
+        <data key = "mi0">-2.0347171901854497</data>
+    </edge>
+ <edge  source = "2305969" target = "2305969">
+        <data key = "freq0">71</data>
+        <data key = "mi0">1.6620053917161985</data>
+    </edge>
+ <edge  source = "2742419" target = "2413301">
+        <data key = "freq0">194</data>
+        <data key = "mi0">16.72892810551817</data>
+    </edge>
+ <edge  source = "1781558" target = "2413301">
+        <data key = "freq0">28</data>
+        <data key = "mi0">3.99808874853699</data>
+    </edge>
+ <edge  source = "2413301" target = "2413301">
+        <data key = "freq0">26</data>
+        <data key = "mi0">-1.638902518669586</data>
+    </edge>
+ <edge  source = "2288169" target = "2413301">
+        <data key = "freq0">17</data>
+        <data key = "mi0">-3.059823160611407</data>
+    </edge>
+ <edge  source = "2937003" target = "2423518">
+        <data key = "freq0">1365</data>
+        <data key = "mi0">53.81212108263208</data>
+    </edge>
+ <edge  source = "2305969" target = "2423518">
+        <data key = "freq0">27</data>
+        <data key = "mi0">5.730415044638769</data>
+    </edge>
+ <edge  source = "1512655" target = "2937003">
+        <data key = "freq0">24</data>
+        <data key = "mi0">1.3045875247560883</data>
+    </edge>
+ <edge  source = "2243575" target = "3070510">
+        <data key = "freq0">103670</data>
+        <data key = "mi0">74.11602495533639</data>
+    </edge>
+ <edge  source = "2305969" target = "3070510">
+        <data key = "freq0">86421</data>
+        <data key = "mi0">71.57629973392675</data>
+    </edge>
+ <edge  source = "3070510" target = "3070510">
+        <data key = "freq0">22</data>
+        <data key = "mi0">-9.818479721124337</data>
+    </edge>
+</graph></graphml>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graph id="nb.no/bigrams" edgedefault="directed">
+    <key id = "form0" for = "node" attr.name = "form" attr.type = "string"/>
+    <key id = "freq0" for = "all" attr.name = "frequency" attr.type = "int"/>
+    <key id = "mi0" for = "edge" attr.name = "mi" attr.type = "float"/>    <node id="1">
+        <data key = "form0">!</data>
+        <data key = "freq0">662634</data>
+    </node>
+    <node id="2">
+        <data key = "form0">"</data>
+        <data key = "freq0">8527809</data>
+    </node>
+    <node id="3">
+        <data key = "form0">#</data>
+        <data key = "freq0">25</data>
+    </node>
+    <node id="4">
+        <data key = "form0">#1</data>
+        <data key = "freq0">6</data>
+    </node>
+    <node id="5">
+        <data key = "form0">#2</data>
+        <data key = "freq0">3</data>
+    </node>
+    <node id="6">
+        <data key = "form0">#6-11</data>
+        <data key = "freq0">2</data>
+    </node>
+    <node id="7">
+        <data key = "form0">#Hekk#aggregat</data>
+        <data key = "freq0">2</data>
+    </node>
+    <node id="8">
+        <data key = "form0">#Storebro#</data>
+        <data key = "freq0">2</data>
+    </node>
+    <node id="9">
+        <data key = "form0">$</data>
+        <data key = "freq0">213</data>
+    </node>
+    <node id="10">
+        <data key = "form0">$$$</data>
+        <data key = "freq0">9</data>
+    </node>
+ <edge  source = "1" target = "3176832">
+        <data key = "freq0">825</data>
+        <data key = "mi0">40.88929091117824</data>
+    </edge>
+ <edge  source = "1" target = "2754756">
+        <data key = "freq0">1348</data>
+        <data key = "mi0">37.303232475713074</data>
+    </edge>
+ <edge  source = "1" target = "137545">
+        <data key = "freq0">555065</data>
+        <data key = "mi0">36.88188057303325</data>
+    </edge>
+ <edge  source = "1" target = "3177016">
+        <data key = "freq0">562</data>
+        <data key = "mi0">36.00084089323373</data>
+    </edge>
+ <edge  source = "1" target = "2754779">
+        <data key = "freq0">945</data>
+        <data key = "mi0">30.71367182306462</data>
+    </edge>
+ <edge  source = "1" target = "326">
+        <data key = "freq0">17408</data>
+        <data key = "mi0">27.88770444421673</data>
+    </edge>
+ <edge  source = "1" target = "2">
+        <data key = "freq0">40923</data>
+        <data key = "mi0">25.017133957173254</data>
+    </edge>
+ <edge  source = "1" target = "2324705">
+        <data key = "freq0">813</data>
+        <data key = "mi0">24.44221435668849</data>
+    </edge>
+ <edge  source = "1" target = "1603610">
+        <data key = "freq0">100</data>
+        <data key = "mi0">22.966583213157428</data>
+    </edge>
+ <edge  source = "1" target = "1603596">
+        <data key = "freq0">104</data>
+        <data key = "mi0">22.135352876743436</data>
+    </edge>
+</graph>

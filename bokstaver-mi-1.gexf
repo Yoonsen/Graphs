@@ -1,0 +1,1127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.2draft" version="1.2">
+  <graph mode="static" defaultedgetype="directed">
+    <attributes class="node" mode="static">
+      <attribute id="freq0" title="n.frequency" type="int"/>
+      <attribute id="form0" title="form" type="string"/>
+    </attributes>
+    <attributes class="edge" mode="static">
+      <attribute id="freq1" title="e.frequency" type="int"/>
+      <attribute id="mi0" title="MI" type="float"/>
+    </attributes>
+    <nodes>
+      <node id="m" label="m">
+        <attvalues>
+          <attvalue for="form0" value="m"/>
+          <attvalue for="freq0" value="873"/>
+        </attvalues>
+      </node>
+      <node id="e" label="e">
+        <attvalues>
+          <attvalue for="form0" value="e"/>
+          <attvalue for="freq0" value="4278"/>
+        </attvalues>
+      </node>
+      <node id="d" label="d">
+        <attvalues>
+          <attvalue for="form0" value="d"/>
+          <attvalue for="freq0" value="1271"/>
+        </attvalues>
+      </node>
+      <node id="a" label="a">
+        <attvalues>
+          <attvalue for="form0" value="a"/>
+          <attvalue for="freq0" value="1650"/>
+        </attvalues>
+      </node>
+      <node id="l" label="l">
+        <attvalues>
+          <attvalue for="form0" value="l"/>
+          <attvalue for="freq0" value="1437"/>
+        </attvalues>
+      </node>
+      <node id="f" label="f">
+        <attvalues>
+          <attvalue for="form0" value="f"/>
+          <attvalue for="freq0" value="521"/>
+        </attvalues>
+      </node>
+      <node id="o" label="o">
+        <attvalues>
+          <attvalue for="form0" value="o"/>
+          <attvalue for="freq0" value="1457"/>
+        </attvalues>
+      </node>
+      <node id="r" label="r">
+        <attvalues>
+          <attvalue for="form0" value="r"/>
+          <attvalue for="freq0" value="2589"/>
+        </attvalues>
+      </node>
+      <node id="s" label="s">
+        <attvalues>
+          <attvalue for="form0" value="s"/>
+          <attvalue for="freq0" value="1824"/>
+        </attvalues>
+      </node>
+      <node id="k" label="k">
+        <attvalues>
+          <attvalue for="form0" value="k"/>
+          <attvalue for="freq0" value="1050"/>
+        </attvalues>
+      </node>
+      <node id="i" label="i">
+        <attvalues>
+          <attvalue for="form0" value="i"/>
+          <attvalue for="freq0" value="1708"/>
+        </attvalues>
+      </node>
+      <node id="t" label="t">
+        <attvalues>
+          <attvalue for="form0" value="t"/>
+          <attvalue for="freq0" value="2037"/>
+        </attvalues>
+      </node>
+      <node id="n" label="n">
+        <attvalues>
+          <attvalue for="form0" value="n"/>
+          <attvalue for="freq0" value="2207"/>
+        </attvalues>
+      </node>
+      <node id="g" label="g">
+        <attvalues>
+          <attvalue for="form0" value="g"/>
+          <attvalue for="freq0" value="974"/>
+        </attvalues>
+      </node>
+      <node id="u" label="u">
+        <attvalues>
+          <attvalue for="form0" value="u"/>
+          <attvalue for="freq0" value="427"/>
+        </attvalues>
+      </node>
+      <node id="y" label="y">
+        <attvalues>
+          <attvalue for="form0" value="y"/>
+          <attvalue for="freq0" value="168"/>
+        </attvalues>
+      </node>
+      <node id="h" label="h">
+        <attvalues>
+          <attvalue for="form0" value="h"/>
+          <attvalue for="freq0" value="329"/>
+        </attvalues>
+      </node>
+      <node id="p" label="p">
+        <attvalues>
+          <attvalue for="form0" value="p"/>
+          <attvalue for="freq0" value="497"/>
+        </attvalues>
+      </node>
+      <node id="j" label="j">
+        <attvalues>
+          <attvalue for="form0" value="j"/>
+          <attvalue for="freq0" value="296"/>
+        </attvalues>
+      </node>
+      <node id="ø" label="ø">
+        <attvalues>
+          <attvalue for="form0" value="ø"/>
+          <attvalue for="freq0" value="211"/>
+        </attvalues>
+      </node>
+      <node id="å" label="å">
+        <attvalues>
+          <attvalue for="form0" value="å"/>
+          <attvalue for="freq0" value="400"/>
+        </attvalues>
+      </node>
+      <node id="v" label="v">
+        <attvalues>
+          <attvalue for="form0" value="v"/>
+          <attvalue for="freq0" value="688"/>
+        </attvalues>
+      </node>
+      <node id="æ" label="æ">
+        <attvalues>
+          <attvalue for="form0" value="æ"/>
+          <attvalue for="freq0" value="44"/>
+        </attvalues>
+      </node>
+      <node id="b" label="b">
+        <attvalues>
+          <attvalue for="form0" value="b"/>
+          <attvalue for="freq0" value="376"/>
+        </attvalues>
+      </node>
+      <node id="é" label="é">
+        <attvalues>
+          <attvalue for="form0" value="é"/>
+          <attvalue for="freq0" value="4"/>
+        </attvalues>
+      </node>
+      <node id="5" label="5">
+        <attvalues>
+          <attvalue for="form0" value="5"/>
+          <attvalue for="freq0" value="26"/>
+        </attvalues>
+      </node>
+      <node id="0" label="0">
+        <attvalues>
+          <attvalue for="form0" value="0"/>
+          <attvalue for="freq0" value="111"/>
+        </attvalues>
+      </node>
+      <node id="2" label="2">
+        <attvalues>
+          <attvalue for="form0" value="2"/>
+          <attvalue for="freq0" value="26"/>
+        </attvalues>
+      </node>
+      <node id="7" label="7">
+        <attvalues>
+          <attvalue for="form0" value="7"/>
+          <attvalue for="freq0" value="15"/>
+        </attvalues>
+      </node>
+      <node id="6" label="6">
+        <attvalues>
+          <attvalue for="form0" value="6"/>
+          <attvalue for="freq0" value="9"/>
+        </attvalues>
+      </node>
+      <node id="1" label="1">
+        <attvalues>
+          <attvalue for="form0" value="1"/>
+          <attvalue for="freq0" value="51"/>
+        </attvalues>
+      </node>
+      <node id="3" label="3">
+        <attvalues>
+          <attvalue for="form0" value="3"/>
+          <attvalue for="freq0" value="9"/>
+        </attvalues>
+      </node>
+      <node id="4" label="4">
+        <attvalues>
+          <attvalue for="form0" value="4"/>
+          <attvalue for="freq0" value="11"/>
+        </attvalues>
+      </node>
+      <node id="8" label="8">
+        <attvalues>
+          <attvalue for="form0" value="8"/>
+          <attvalue for="freq0" value="12"/>
+        </attvalues>
+      </node>
+      <node id="9" label="9">
+        <attvalues>
+          <attvalue for="form0" value="9"/>
+          <attvalue for="freq0" value="16"/>
+        </attvalues>
+      </node>
+      <node id="c" label="c">
+        <attvalues>
+          <attvalue for="form0" value="c"/>
+          <attvalue for="freq0" value="14"/>
+        </attvalues>
+      </node>
+      <node id="w" label="w">
+        <attvalues>
+          <attvalue for="form0" value="w"/>
+          <attvalue for="freq0" value="9"/>
+        </attvalues>
+      </node>
+      <node id="z" label="z">
+        <attvalues>
+          <attvalue for="form0" value="z"/>
+          <attvalue for="freq0" value="7"/>
+        </attvalues>
+      </node>
+      <node id="q" label="q">
+        <attvalues>
+          <attvalue for="form0" value="q"/>
+          <attvalue for="freq0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="§" label="§">
+        <attvalues>
+          <attvalue for="form0" value="§"/>
+          <attvalue for="freq0" value="6"/>
+        </attvalues>
+      </node>
+      <node id="ö" label="ö">
+        <attvalues>
+          <attvalue for="form0" value="ö"/>
+          <attvalue for="freq0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="ä" label="ä">
+        <attvalues>
+          <attvalue for="form0" value="ä"/>
+          <attvalue for="freq0" value="4"/>
+        </attvalues>
+      </node>
+      <node id="á" label="á">
+        <attvalues>
+          <attvalue for="form0" value="á"/>
+          <attvalue for="freq0" value="1"/>
+        </attvalues>
+      </node>
+      <node id="©" label="©">
+        <attvalues>
+          <attvalue for="form0" value="©"/>
+          <attvalue for="freq0" value="2"/>
+        </attvalues>
+      </node>
+      <node id="ü" label="ü">
+        <attvalues>
+          <attvalue for="form0" value="ü"/>
+          <attvalue for="freq0" value="5"/>
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="f" target="o" weight="2.103668891321004">
+        <attvalues>
+          <attvalue for="freq1" value="225"/>
+          <attvalue for="mi0" value="2.103668891321004"/>
+        </attvalues>
+      </edge>
+      <edge source="o" target="r" weight="1.0807436397374341">
+        <attvalues>
+          <attvalue for="freq1" value="402"/>
+          <attvalue for="mi0" value="1.0807436397374341"/>
+        </attvalues>
+      </edge>
+      <edge source="s" target="k" weight="1.3111968081745298">
+        <attvalues>
+          <attvalue for="freq1" value="257"/>
+          <attvalue for="mi0" value="1.3111968081745298"/>
+        </attvalues>
+      </edge>
+      <edge source="o" target="g" weight="1.243690777519501">
+        <attvalues>
+          <attvalue for="freq1" value="178"/>
+          <attvalue for="mi0" value="1.243690777519501"/>
+        </attvalues>
+      </edge>
+      <edge source="o" target="m" weight="1.6478465269618594">
+        <attvalues>
+          <attvalue for="freq1" value="239"/>
+          <attvalue for="mi0" value="1.6478465269618594"/>
+        </attvalues>
+      </edge>
+      <edge source="d" target="e" weight="1.137018112169562">
+        <attvalues>
+          <attvalue for="freq1" value="613"/>
+          <attvalue for="mi0" value="1.137018112169562"/>
+        </attvalues>
+      </edge>
+      <edge source="n" target="g" weight="1.106238141310043">
+        <attvalues>
+          <attvalue for="freq1" value="235"/>
+          <attvalue for="mi0" value="1.106238141310043"/>
+        </attvalues>
+      </edge>
+      <edge source="s" target="j" weight="1.781896903213183">
+        <attvalues>
+          <attvalue for="freq1" value="116"/>
+          <attvalue for="mi0" value="1.781896903213183"/>
+        </attvalues>
+      </edge>
+      <edge source="j" target="o" weight="2.1729400023740153">
+        <attvalues>
+          <attvalue for="freq1" value="137"/>
+          <attvalue for="mi0" value="2.1729400023740153"/>
+        </attvalues>
+      </edge>
+      <edge source="ø" target="r" weight="1.250674728434811">
+        <attvalues>
+          <attvalue for="freq1" value="69"/>
+          <attvalue for="mi0" value="1.250674728434811"/>
+        </attvalues>
+      </edge>
+      <edge source="m" target="å" weight="1.5415906780232909">
+        <attvalues>
+          <attvalue for="freq1" value="59"/>
+          <attvalue for="mi0" value="1.5415906780232909"/>
+        </attvalues>
+      </edge>
+      <edge source="v" target="æ" weight="2.7998466231097154">
+        <attvalues>
+          <attvalue for="freq1" value="18"/>
+          <attvalue for="mi0" value="2.7998466231097154"/>
+        </attvalues>
+      </edge>
+      <edge source="æ" target="r" weight="2.368426357313618">
+        <attvalues>
+          <attvalue for="freq1" value="44"/>
+          <attvalue for="mi0" value="2.368426357313618"/>
+        </attvalues>
+      </edge>
+      <edge source="n" target="d" weight="1.0224117305570788">
+        <attvalues>
+          <attvalue for="freq1" value="282"/>
+          <attvalue for="mi0" value="1.0224117305570788"/>
+        </attvalues>
+      </edge>
+      <edge source="h" target="v" weight="1.5085246610106644">
+        <attvalues>
+          <attvalue for="freq1" value="37"/>
+          <attvalue for="mi0" value="1.5085246610106644"/>
+        </attvalues>
+      </edge>
+      <edge source="h" target="a" weight="1.957338952535849">
+        <attvalues>
+          <attvalue for="freq1" value="139"/>
+          <attvalue for="mi0" value="1.957338952535849"/>
+        </attvalues>
+      </edge>
+      <edge source="v" target="i" weight="1.3257599400171236">
+        <attvalues>
+          <attvalue for="freq1" value="160"/>
+          <attvalue for="mi0" value="1.3257599400171236"/>
+        </attvalues>
+      </edge>
+      <edge source="p" target="å" weight="2.434118011124798">
+        <attvalues>
+          <attvalue for="freq1" value="82"/>
+          <attvalue for="mi0" value="2.434118011124798"/>
+        </attvalues>
+      </edge>
+      <edge source="a" target="v" weight="1.1449463365988577">
+        <attvalues>
+          <attvalue for="freq1" value="129"/>
+          <attvalue for="mi0" value="1.1449463365988577"/>
+        </attvalues>
+      </edge>
+      <edge source="k" target="j" weight="1.1069089642056875">
+        <attvalues>
+          <attvalue for="freq1" value="34"/>
+          <attvalue for="mi0" value="1.1069089642056875"/>
+        </attvalues>
+      </edge>
+      <edge source="j" target="ø" weight="2.552531579251503">
+        <attvalues>
+          <attvalue for="freq1" value="29"/>
+          <attvalue for="mi0" value="2.552531579251503"/>
+        </attvalues>
+      </edge>
+      <edge source="y" target="n" weight="1.21076244117548">
+        <attvalues>
+          <attvalue for="freq1" value="45"/>
+          <attvalue for="mi0" value="1.21076244117548"/>
+        </attvalues>
+      </edge>
+      <edge source="g" target="j" weight="1.3445620332124966">
+        <attvalues>
+          <attvalue for="freq1" value="40"/>
+          <attvalue for="mi0" value="1.3445620332124966"/>
+        </attvalues>
+      </edge>
+      <edge source="u" target="k" weight="1.2745668912313814">
+        <attvalues>
+          <attvalue for="freq1" value="58"/>
+          <attvalue for="mi0" value="1.2745668912313814"/>
+        </attvalues>
+      </edge>
+      <edge source="b" target="ø" weight="1.7185947824389758">
+        <attvalues>
+          <attvalue for="freq1" value="16"/>
+          <attvalue for="mi0" value="1.7185947824389758"/>
+        </attvalues>
+      </edge>
+      <edge source="n" target="y" weight="1.1176720181094681">
+        <attvalues>
+          <attvalue for="freq1" value="41"/>
+          <attvalue for="mi0" value="1.1176720181094681"/>
+        </attvalues>
+      </edge>
+      <edge source="p" target="p" weight="1.9211471490452094">
+        <attvalues>
+          <attvalue for="freq1" value="61"/>
+          <attvalue for="mi0" value="1.9211471490452094"/>
+        </attvalues>
+      </edge>
+      <edge source="l" target="æ" weight="1.3701753944040889">
+        <attvalues>
+          <attvalue for="freq1" value="9"/>
+          <attvalue for="mi0" value="1.3701753944040889"/>
+        </attvalues>
+      </edge>
+      <edge source="d" target="é" weight="1.693599704755811">
+        <attvalues>
+          <attvalue for="freq1" value="1"/>
+          <attvalue for="mi0" value="1.693599704755811"/>
+        </attvalues>
+      </edge>
+      <edge source="é" target="t" weight="1.2219255597184593">
+        <attvalues>
+          <attvalue for="freq1" value="1"/>
+          <attvalue for="mi0" value="1.2219255597184593"/>
+        </attvalues>
+      </edge>
+      <edge source="j" target="æ" weight="1.851516537490944">
+        <attvalues>
+          <attvalue for="freq1" value="3"/>
+          <attvalue for="mi0" value="1.851516537490944"/>
+        </attvalues>
+      </edge>
+      <edge source="ø" target="y" weight="2.5242199464256116">
+        <attvalues>
+          <attvalue for="freq1" value="16"/>
+          <attvalue for="mi0" value="2.5242199464256116"/>
+        </attvalues>
+      </edge>
+      <edge source="5" target="0" weight="4.562411690725385">
+        <attvalues>
+          <attvalue for="freq1" value="10"/>
+          <attvalue for="mi0" value="4.562411690725385"/>
+        </attvalues>
+      </edge>
+      <edge source="0" target="0" weight="4.885930378346207">
+        <attvalues>
+          <attvalue for="freq1" value="59"/>
+          <attvalue for="mi0" value="4.885930378346207"/>
+        </attvalues>
+      </edge>
+      <edge source="2" target="0" weight="5.093039941787556">
+        <attvalues>
+          <attvalue for="freq1" value="17"/>
+          <attvalue for="mi0" value="5.093039941787556"/>
+        </attvalues>
+      </edge>
+      <edge source="0" target="7" weight="4.196167295770502">
+        <attvalues>
+          <attvalue for="freq1" value="4"/>
+          <attvalue for="mi0" value="4.196167295770502"/>
+        </attvalues>
+      </edge>
+      <edge source="v" target="6" weight="1.4964399217955926">
+        <attvalues>
+          <attvalue for="freq1" value="1"/>
+          <attvalue for="mi0" value="1.4964399217955926"/>
+        </attvalues>
+      </edge>
+      <edge source="6" target="1" weight="4.098403127004611">
+        <attvalues>
+          <attvalue for="freq1" value="1"/>
+          <attvalue for="mi0" value="4.098403127004611"/>
+        </attvalues>
+      </edge>
+      <edge source="1" target="7" weight="4.97387186435851">
+        <attvalues>
+          <attvalue for="freq1" value="4"/>
+          <attvalue for="mi0" value="4.97387186435851"/>
+        </attvalues>
+      </edge>
+      <edge source="7" target="0" weight="3.908485223318721">
+        <attvalues>
+          <attvalue for="freq1" value="3"/>
+          <attvalue for="mi0" value="3.908485223318721"/>
+        </attvalues>
+      </edge>
+      <edge source="0" target="m" weight="1.0485726729072649">
+        <attvalues>
+          <attvalue for="freq1" value="10"/>
+          <attvalue for="mi0" value="1.0485726729072649"/>
+        </attvalues>
+      </edge>
+      <edge source="3" target="1" weight="4.098403127004611">
+        <attvalues>
+          <attvalue for="freq1" value="1"/>
+          <attvalue for="mi0" value="4.098403127004611"/>
+        </attvalues>
+      </edge>
+      <edge source="1" target="4" weight="4.5908796121024045">
+        <attvalues>
+          <attvalue for="freq1" value="2"/>
+          <attvalue for="mi0" value="4.5908796121024045"/>
+        </attvalues>
+      </edge>
+      <edge source="4" target="0" weight="3.8131750435143963">
+        <attvalues>
+          <attvalue for="freq1" value="2"/>
+          <attvalue for="mi0" value="3.8131750435143963"/>
+        </attvalues>
+      </edge>
+      <edge source="å" target="b" weight="1.3509220842907022">
+        <attvalues>
+          <attvalue for="freq1" value="21"/>
+          <attvalue for="mi0" value="1.3509220842907022"/>
+        </attvalues>
+      </edge>
+      <edge source="8" target="0" weight="4.419310847084712">
+        <attvalues>
+          <attvalue for="freq1" value="4"/>
+          <attvalue for="mi0" value="4.419310847084712"/>
+        </attvalues>
+      </edge>
+      <edge source="1" target="3" weight="5.484697488124501">
+        <attvalues>
+          <attvalue for="freq1" value="4"/>
+          <attvalue for="mi0" value="5.484697488124501"/>
+        </attvalues>
+      </edge>
+      <edge source="3" target="0" weight="3.320698558416602">
+        <attvalues>
+          <attvalue for="freq1" value="1"/>
+          <attvalue for="mi0" value="3.320698558416602"/>
+        </attvalues>
+      </edge>
+      <edge source="7" target="7" weight="4.811352934860736">
+        <attvalues>
+          <attvalue for="freq1" value="1"/>
+          <attvalue for="mi0" value="4.811352934860736"/>
+        </attvalues>
+      </edge>
+      <edge source="7" target="u" weight="1.462619122734321">
+        <attvalues>
+          <attvalue for="freq1" value="1"/>
+          <attvalue for="mi0" value="1.462619122734321"/>
+        </attvalues>
+      </edge>
+      <edge source="1" target="1" weight="3.750096432736395">
+        <attvalues>
+          <attvalue for="freq1" value="4"/>
+          <attvalue for="mi0" value="3.750096432736395"/>
+        </attvalues>
+      </edge>
+      <edge source="1" target="2" weight="4.136143454987457">
+        <attvalues>
+          <attvalue for="freq1" value="3"/>
+          <attvalue for="mi0" value="4.136143454987457"/>
+        </attvalues>
+      </edge>
+      <edge source="2" target="j" weight="1.2789973447196132">
+        <attvalues>
+          <attvalue for="freq1" value="1"/>
+          <attvalue for="mi0" value="1.2789973447196132"/>
+        </attvalues>
+      </edge>
+      <edge source="ø" target="p" weight="1.231954534953997">
+        <attvalues>
+          <attvalue for="freq1" value="13"/>
+          <attvalue for="mi0" value="1.231954534953997"/>
+        </attvalues>
+      </edge>
+      <edge source="1" target="0" weight="4.071004152816496">
+        <attvalues>
+          <attvalue for="freq1" value="12"/>
+          <attvalue for="mi0" value="4.071004152816496"/>
+        </attvalues>
+      </edge>
+      <edge source="å" target="6" weight="2.7319113931808996">
+        <attvalues>
+          <attvalue for="freq1" value="2"/>
+          <attvalue for="mi0" value="2.7319113931808996"/>
+        </attvalues>
+      </edge>
+      <edge source="6" target="7" weight="5.322178558626726">
+        <attvalues>
+          <attvalue for="freq1" value="1"/>
+          <attvalue for="mi0" value="5.322178558626726"/>
+        </attvalues>
+      </edge>
+      <edge source="7" target="5" weight="4.954453778501409">
+        <attvalues>
+          <attvalue for="freq1" value="2"/>
+          <attvalue for="mi0" value="4.954453778501409"/>
+        </attvalues>
+      </edge>
+      <edge source="4" target="4" weight="5.431662791468415">
+        <attvalues>
+          <attvalue for="freq1" value="1"/>
+          <attvalue for="mi0" value="5.431662791468415"/>
+        </attvalues>
+      </edge>
+      <edge source="4" target="5" weight="5.264608706805248">
+        <attvalues>
+          <attvalue for="freq1" value="2"/>
+          <attvalue for="mi0" value="5.264608706805248"/>
+        </attvalues>
+      </edge>
+      <edge source="6" target="0" weight="4.419310847084712">
+        <attvalues>
+          <attvalue for="freq1" value="3"/>
+          <attvalue for="mi0" value="4.419310847084712"/>
+        </attvalues>
+      </edge>
+      <edge source="5" target="6" weight="4.772132221707454">
+        <attvalues>
+          <attvalue for="freq1" value="1"/>
+          <attvalue for="mi0" value="4.772132221707454"/>
+        </attvalues>
+      </edge>
+      <edge source="5" target="7" weight="4.261306597941464">
+        <attvalues>
+          <attvalue for="freq1" value="1"/>
+          <attvalue for="mi0" value="4.261306597941464"/>
+        </attvalues>
+      </edge>
+      <edge source="7" target="f" weight="1.2636530942095785">
+        <attvalues>
+          <attvalue for="freq1" value="1"/>
+          <attvalue for="mi0" value="1.2636530942095785"/>
+        </attvalues>
+      </edge>
+      <edge source="b" target="y" weight="1.5717954870703728">
+        <attvalues>
+          <attvalue for="freq1" value="11"/>
+          <attvalue for="mi0" value="1.5717954870703728"/>
+        </attvalues>
+      </edge>
+      <edge source="f" target="ø" weight="2.085581064635449">
+        <attvalues>
+          <attvalue for="freq1" value="32"/>
+          <attvalue for="mi0" value="2.085581064635449"/>
+        </attvalues>
+      </edge>
+      <edge source="h" target="ø" weight="1.5644441026117175">
+        <attvalues>
+          <attvalue for="freq1" value="12"/>
+          <attvalue for="mi0" value="1.5644441026117175"/>
+        </attvalues>
+      </edge>
+      <edge source="2" target="8" weight="5.177597329815619">
+        <attvalues>
+          <attvalue for="freq1" value="2"/>
+          <attvalue for="mi0" value="5.177597329815619"/>
+        </attvalues>
+      </edge>
+      <edge source="8" target="u" weight="1.6857626740485308">
+        <attvalues>
+          <attvalue for="freq1" value="1"/>
+          <attvalue for="mi0" value="1.6857626740485308"/>
+        </attvalues>
+      </edge>
+      <edge source="f" target="y" weight="1.4867966455237884">
+        <attvalues>
+          <attvalue for="freq1" value="14"/>
+          <attvalue for="mi0" value="1.4867966455237884"/>
+        </attvalues>
+      </edge>
+      <edge source="4" target="1" weight="5.28402679266235">
+        <attvalues>
+          <attvalue for="freq1" value="4"/>
+          <attvalue for="mi0" value="5.28402679266235"/>
+        </attvalues>
+      </edge>
+      <edge source="1" target="9" weight="4.909333343220939">
+        <attvalues>
+          <attvalue for="freq1" value="4"/>
+          <attvalue for="mi0" value="4.909333343220939"/>
+        </attvalues>
+      </edge>
+      <edge source="9" target="9" weight="6.291713805019693">
+        <attvalues>
+          <attvalue for="freq1" value="5"/>
+          <attvalue for="mi0" value="6.291713805019693"/>
+        </attvalues>
+      </edge>
+      <edge source="9" target="2" weight="4.196768076803893">
+        <attvalues>
+          <attvalue for="freq1" value="1"/>
+          <attvalue for="mi0" value="4.196768076803893"/>
+        </attvalues>
+      </edge>
+      <edge source="9" target="7" weight="4.746814413723165">
+        <attvalues>
+          <attvalue for="freq1" value="1"/>
+          <attvalue for="mi0" value="4.746814413723165"/>
+        </attvalues>
+      </edge>
+      <edge source="7" target="p" weight="1.3108131098663167">
+        <attvalues>
+          <attvalue for="freq1" value="1"/>
+          <attvalue for="mi0" value="1.3108131098663167"/>
+        </attvalues>
+      </edge>
+      <edge source="5" target="3" weight="4.772132221707454">
+        <attvalues>
+          <attvalue for="freq1" value="1"/>
+          <attvalue for="mi0" value="4.772132221707454"/>
+        </attvalues>
+      </edge>
+      <edge source="3" target="p" weight="2.514785914192253">
+        <attvalues>
+          <attvalue for="freq1" value="2"/>
+          <attvalue for="mi0" value="2.514785914192253"/>
+        </attvalues>
+      </edge>
+      <edge source="2" target="5" weight="4.404407441582137">
+        <attvalues>
+          <attvalue for="freq1" value="2"/>
+          <attvalue for="mi0" value="4.404407441582137"/>
+        </attvalues>
+      </edge>
+      <edge source="1" target="8" weight="4.503868235112775">
+        <attvalues>
+          <attvalue for="freq1" value="2"/>
+          <attvalue for="mi0" value="4.503868235112775"/>
+        </attvalues>
+      </edge>
+      <edge source="8" target="p" weight="1.5339566611805266">
+        <attvalues>
+          <attvalue for="freq1" value="1"/>
+          <attvalue for="mi0" value="1.5339566611805266"/>
+        </attvalues>
+      </edge>
+      <edge source="0" target="8" weight="3.7261636665247666">
+        <attvalues>
+          <attvalue for="freq1" value="2"/>
+          <attvalue for="mi0" value="3.7261636665247666"/>
+        </attvalues>
+      </edge>
+      <edge source="t" target="é" weight="1.2219255597184593">
+        <attvalues>
+          <attvalue for="freq1" value="1"/>
+          <attvalue for="mi0" value="1.2219255597184593"/>
+        </attvalues>
+      </edge>
+      <edge source="é" target="n" weight="2.2403818583566384">
+        <attvalues>
+          <attvalue for="freq1" value="3"/>
+          <attvalue for="mi0" value="2.2403818583566384"/>
+        </attvalues>
+      </edge>
+      <edge source="8" target="h" weight="1.9464889365117835">
+        <attvalues>
+          <attvalue for="freq1" value="1"/>
+          <attvalue for="mi0" value="1.9464889365117835"/>
+        </attvalues>
+      </edge>
+      <edge source="7" target="6" weight="5.322178558626726">
+        <attvalues>
+          <attvalue for="freq1" value="1"/>
+          <attvalue for="mi0" value="5.322178558626726"/>
+        </attvalues>
+      </edge>
+      <edge source="6" target="m" weight="1.258293203889334">
+        <attvalues>
+          <attvalue for="freq1" value="1"/>
+          <attvalue for="mi0" value="1.258293203889334"/>
+        </attvalues>
+      </edge>
+      <edge source="w" target="o" weight="1.4392411340936766">
+        <attvalues>
+          <attvalue for="freq1" value="2"/>
+          <attvalue for="mi0" value="1.4392411340936766"/>
+        </attvalues>
+      </edge>
+      <edge source="å" target="9" weight="1.4634000677173924">
+        <attvalues>
+          <attvalue for="freq1" value="1"/>
+          <attvalue for="mi0" value="1.4634000677173924"/>
+        </attvalues>
+      </edge>
+      <edge source="9" target="å" weight="2.1565472482773376">
+        <attvalues>
+          <attvalue for="freq1" value="2"/>
+          <attvalue for="mi0" value="2.1565472482773376"/>
+        </attvalues>
+      </edge>
+      <edge source="3" target="m" weight="1.258293203889334">
+        <attvalues>
+          <attvalue for="freq1" value="1"/>
+          <attvalue for="mi0" value="1.258293203889334"/>
+        </attvalues>
+      </edge>
+      <edge source="n" target="z" weight="1.2753009623130511">
+        <attvalues>
+          <attvalue for="freq1" value="2"/>
+          <attvalue for="mi0" value="1.2753009623130511"/>
+        </attvalues>
+      </edge>
+      <edge source="å" target="4" weight="1.838093517158803">
+        <attvalues>
+          <attvalue for="freq1" value="1"/>
+          <attvalue for="mi0" value="1.838093517158803"/>
+        </attvalues>
+      </edge>
+      <edge source="b" target="c" weight="1.6588068640600024">
+        <attvalues>
+          <attvalue for="freq1" value="1"/>
+          <attvalue for="mi0" value="1.6588068640600024"/>
+        </attvalues>
+      </edge>
+      <edge source="c" target="h" weight="3.871779798364361">
+        <attvalues>
+          <attvalue for="freq1" value="8"/>
+          <attvalue for="mi0" value="3.871779798364361"/>
+        </attvalues>
+      </edge>
+      <edge source="b" target="æ" weight="1.2068217403169452">
+        <attvalues>
+          <attvalue for="freq1" value="2"/>
+          <attvalue for="mi0" value="1.2068217403169452"/>
+        </attvalues>
+      </edge>
+      <edge source="a" target="q" weight="2.8189227701705293">
+        <attvalues>
+          <attvalue for="freq1" value="1"/>
+          <attvalue for="mi0" value="2.8189227701705293"/>
+        </attvalues>
+      </edge>
+      <edge source="q" target="u" weight="4.170669323836531">
+        <attvalues>
+          <attvalue for="freq1" value="1"/>
+          <attvalue for="mi0" value="4.170669323836531"/>
+        </attvalues>
+      </edge>
+      <edge source="0" target="9" weight="2.7453344135130404">
+        <attvalues>
+          <attvalue for="freq1" value="1"/>
+          <attvalue for="mi0" value="2.7453344135130404"/>
+        </attvalues>
+      </edge>
+      <edge source="1" target="5" weight="5.234755743655567">
+        <attvalues>
+          <attvalue for="freq1" value="9"/>
+          <attvalue for="mi0" value="5.234755743655567"/>
+        </attvalues>
+      </edge>
+      <edge source="0" target="6" weight="3.320698558416602">
+        <attvalues>
+          <attvalue for="freq1" value="1"/>
+          <attvalue for="mi0" value="3.320698558416602"/>
+        </attvalues>
+      </edge>
+      <edge source="6" target="s" weight="1.2145887696546047">
+        <attvalues>
+          <attvalue for="freq1" value="2"/>
+          <attvalue for="mi0" value="1.2145887696546047"/>
+        </attvalues>
+      </edge>
+      <edge source="0" target="3" weight="3.320698558416602">
+        <attvalues>
+          <attvalue for="freq1" value="1"/>
+          <attvalue for="mi0" value="3.320698558416602"/>
+        </attvalues>
+      </edge>
+      <edge source="3" target="u" weight="1.9734447465003115">
+        <attvalues>
+          <attvalue for="freq1" value="1"/>
+          <attvalue for="mi0" value="1.9734447465003115"/>
+        </attvalues>
+      </edge>
+      <edge source="t" target="w" weight="1.50960763217024">
+        <attvalues>
+          <attvalue for="freq1" value="3"/>
+          <attvalue for="mi0" value="1.50960763217024"/>
+        </attvalues>
+      </edge>
+      <edge source="w" target="h" weight="2.2341710089635645">
+        <attvalues>
+          <attvalue for="freq1" value="1"/>
+          <attvalue for="mi0" value="2.2341710089635645"/>
+        </attvalues>
+      </edge>
+      <edge source="5" target="8" weight="5.177597329815619">
+        <attvalues>
+          <attvalue for="freq1" value="2"/>
+          <attvalue for="mi0" value="5.177597329815619"/>
+        </attvalues>
+      </edge>
+      <edge source="§" target="8" weight="6.643934398609046">
+        <attvalues>
+          <attvalue for="freq1" value="2"/>
+          <attvalue for="mi0" value="6.643934398609046"/>
+        </attvalues>
+      </edge>
+      <edge source="0" target="2" weight="2.952973778291285">
+        <attvalues>
+          <attvalue for="freq1" value="2"/>
+          <attvalue for="mi0" value="2.952973778291285"/>
+        </attvalues>
+      </edge>
+      <edge source="4" target="7" weight="5.121507863164575">
+        <attvalues>
+          <attvalue for="freq1" value="1"/>
+          <attvalue for="mi0" value="5.121507863164575"/>
+        </attvalues>
+      </edge>
+      <edge source="i" target="§" weight="1.6857626740485308">
+        <attvalues>
+          <attvalue for="freq1" value="2"/>
+          <attvalue for="mi0" value="1.6857626740485308"/>
+        </attvalues>
+      </edge>
+      <edge source="§" target="1" weight="5.890162596232665">
+        <attvalues>
+          <attvalue for="freq1" value="4"/>
+          <attvalue for="mi0" value="5.890162596232665"/>
+        </attvalues>
+      </edge>
+      <edge source="j" target="ö" weight="4.537093882741095">
+        <attvalues>
+          <attvalue for="freq1" value="1"/>
+          <attvalue for="mi0" value="4.537093882741095"/>
+        </attvalues>
+      </edge>
+      <edge source="ö" target="r" weight="2.368426357313618">
+        <attvalues>
+          <attvalue for="freq1" value="1"/>
+          <attvalue for="mi0" value="2.368426357313618"/>
+        </attvalues>
+      </edge>
+      <edge source="b" target="ä" weight="2.9115698325553705">
+        <attvalues>
+          <attvalue for="freq1" value="1"/>
+          <attvalue for="mi0" value="2.9115698325553705"/>
+        </attvalues>
+      </edge>
+      <edge source="ä" target="r" weight="2.080744284861837">
+        <attvalues>
+          <attvalue for="freq1" value="3"/>
+          <attvalue for="mi0" value="2.080744284861837"/>
+        </attvalues>
+      </edge>
+      <edge source="l" target="ä" weight="2.2639932704261856">
+        <attvalues>
+          <attvalue for="freq1" value="2"/>
+          <attvalue for="mi0" value="2.2639932704261856"/>
+        </attvalues>
+      </edge>
+      <edge source="ä" target="t" weight="1.2219255597184593">
+        <attvalues>
+          <attvalue for="freq1" value="1"/>
+          <attvalue for="mi0" value="1.2219255597184593"/>
+        </attvalues>
+      </edge>
+      <edge source="n" target="á" weight="2.528063930808419">
+        <attvalues>
+          <attvalue for="freq1" value="1"/>
+          <attvalue for="mi0" value="2.528063930808419"/>
+        </attvalues>
+      </edge>
+      <edge source="á" target="2" weight="6.969356799043673">
+        <attvalues>
+          <attvalue for="freq1" value="1"/>
+          <attvalue for="mi0" value="6.969356799043673"/>
+        </attvalues>
+      </edge>
+      <edge source="2" target="4" weight="4.571461526245303">
+        <attvalues>
+          <attvalue for="freq1" value="1"/>
+          <attvalue for="mi0" value="4.571461526245303"/>
+        </attvalues>
+      </edge>
+      <edge source="d" target="§" weight="1.2881345966476465">
+        <attvalues>
+          <attvalue for="freq1" value="1"/>
+          <attvalue for="mi0" value="1.2881345966476465"/>
+        </attvalues>
+      </edge>
+      <edge source="n" target="§" weight="1.4294516421403094">
+        <attvalues>
+          <attvalue for="freq1" value="2"/>
+          <attvalue for="mi0" value="1.4294516421403094"/>
+        </attvalues>
+      </edge>
+      <edge source="9" target="5" weight="4.196768076803893">
+        <attvalues>
+          <attvalue for="freq1" value="1"/>
+          <attvalue for="mi0" value="4.196768076803893"/>
+        </attvalues>
+      </edge>
+      <edge source="3" target="b" weight="2.1006396163390417">
+        <attvalues>
+          <attvalue for="freq1" value="1"/>
+          <attvalue for="mi0" value="2.1006396163390417"/>
+        </attvalues>
+      </edge>
+      <edge source="e" target="©" weight="1.1730652668628594">
+        <attvalues>
+          <attvalue for="freq1" value="1"/>
+          <attvalue for="mi0" value="1.1730652668628594"/>
+        </attvalues>
+      </edge>
+      <edge source="©" target="n" weight="2.528063930808419">
+        <attvalues>
+          <attvalue for="freq1" value="2"/>
+          <attvalue for="mi0" value="2.528063930808419"/>
+        </attvalues>
+      </edge>
+      <edge source="b" target="w" weight="2.1006396163390417">
+        <attvalues>
+          <attvalue for="freq1" value="1"/>
+          <attvalue for="mi0" value="2.1006396163390417"/>
+        </attvalues>
+      </edge>
+      <edge source="w" target="a" weight="2.413457662062365">
+        <attvalues>
+          <attvalue for="freq1" value="6"/>
+          <attvalue for="mi0" value="2.413457662062365"/>
+        </attvalues>
+      </edge>
+      <edge source="z" target="ü" weight="8.281543188009842">
+        <attvalues>
+          <attvalue for="freq1" value="5"/>
+          <attvalue for="mi0" value="8.281543188009842"/>
+        </attvalues>
+      </edge>
+      <edge source="ü" target="r" weight="2.368426357313618">
+        <attvalues>
+          <attvalue for="freq1" value="5"/>
+          <attvalue for="mi0" value="2.368426357313618"/>
+        </attvalues>
+      </edge>
+      <edge source="i" target="c" weight="2.0912277821566954">
+        <attvalues>
+          <attvalue for="freq1" value="7"/>
+          <attvalue for="mi0" value="2.0912277821566954"/>
+        </attvalues>
+      </edge>
+      <edge source="i" target="z" weight="1.5316119942212725">
+        <attvalues>
+          <attvalue for="freq1" value="2"/>
+          <attvalue for="mi0" value="1.5316119942212725"/>
+        </attvalues>
+      </edge>
+      <edge source="9" target="8" weight="4.969957965037374">
+        <attvalues>
+          <attvalue for="freq1" value="1"/>
+          <attvalue for="mi0" value="4.969957965037374"/>
+        </attvalues>
+      </edge>
+      <edge source="8" target="1" weight="3.8107210545528294">
+        <attvalues>
+          <attvalue for="freq1" value="1"/>
+          <attvalue for="mi0" value="3.8107210545528294"/>
+        </attvalues>
+      </edge>
+      <edge source="d" target="z" weight="1.1339839168203882">
+        <attvalues>
+          <attvalue for="freq1" value="1"/>
+          <attvalue for="mi0" value="1.1339839168203882"/>
+        </attvalues>
+      </edge>
+      <edge source="t" target="©" weight="1.9150727402784045">
+        <attvalues>
+          <attvalue for="freq1" value="1"/>
+          <attvalue for="mi0" value="1.9150727402784045"/>
+        </attvalues>
+      </edge>
+      <edge source="5" target="j" weight="1.2789973447196132">
+        <attvalues>
+          <attvalue for="freq1" value="1"/>
+          <attvalue for="mi0" value="1.2789973447196132"/>
+        </attvalues>
+      </edge>
+      <edge source="i" target="é" weight="1.39808060159675">
+        <attvalues>
+          <attvalue for="freq1" value="1"/>
+          <attvalue for="mi0" value="1.39808060159675"/>
+        </attvalues>
+      </edge>
+      <edge source="3" target="5" weight="4.772132221707454">
+        <attvalues>
+          <attvalue for="freq1" value="1"/>
+          <attvalue for="mi0" value="4.772132221707454"/>
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
